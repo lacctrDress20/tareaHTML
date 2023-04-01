@@ -1,0 +1,9 @@
+    main {
+        columns: 3;
+        column-gap: 3em;
+        column-rule: 1px solid #bbb;
+            }   
+    h1 {
+        column-span: all;
+        }
+        
